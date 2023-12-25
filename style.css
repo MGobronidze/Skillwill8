@@ -1,0 +1,8 @@
+.wrapper{
+    width: 400px;
+    font-size: 20px;
+    background-color: violet;
+    margin: 10px auto;
+    padding: 5px;
+    text-align: center;
+}
